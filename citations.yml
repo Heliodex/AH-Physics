@@ -1,0 +1,109 @@
+nicoguaro:
+    type: Web
+    title: Diagrama típico de esfuerzo vs. deformación para un material dúctil (p.ej. acero)
+    author: Nicoguaro
+    date: 2020-05-05
+    url:
+      date: 2025-04-02
+      value: https://commons.wikimedia.org/wiki/File:Stress_strain_ductile.svg
+
+wdjghalf:
+    type: Web
+    title: "한국어: 훅의 법칙을 그림으로 나타낸 것이다."
+    author: Wdjghalf
+    date: 2012-04-24
+    url:
+      date: 2025-04-02
+      value: https://commons.wikimedia.org/wiki/File:Hooke%27s_Law_wikipedia.png
+
+p-a-hilton:
+    type: Web
+    title: HSM31 TORSION TESTING MACHINE 30Nm
+    author: PA Hilton
+    date: 2020-04-30
+    url:
+      date: 2025-04-02
+      value: https://www.p-a-hilton.co.uk/datasheets/download/5627
+
+p-a-hilton2:
+    type: Web
+    title: OPTIONAL TORSION SPECIMENS
+    author: PA Hilton
+    url:
+      date: 2025-04-02
+      value: https://www.p-a-hilton.co.uk/products/strength-materials-hsm/optional-torsion-specimens
+
+doitpoms:
+    type: Web
+    title: "Experiment: Measurement of Young's modulus"
+    author: Dissemination of IT for the Promotion of Materials Science, University of Cambridge
+    date: 2005-01-06
+    url:
+      date: 2025-04-02
+      value: https://www.doitpoms.ac.uk/tlplib/thermal-expansion/expt1.php
+
+zweben:
+    type: Book
+    title: Test methods for fiber tensile strength, composite flexural modulus, and properties of fabric-reinforced laminates
+    publisher: ASTM International
+    author:
+      - C. Zweben
+      - W. S. Smith
+      - M. W. Wardle
+    date: 1979-01-01
+    parent:
+        type: Web
+        title: Flexural modulus
+        url:
+          date: 2025-04-02
+          value: https://en.wikipedia.org/wiki/Flexural_modulus
+
+adjwilley:
+    type: Web
+    title: Diagrama típico de esfuerzo vs. deformación para un material dúctil (p.ej. acero)
+    author: Nicoguaro
+    date: 2014-09-17
+    url:
+      date: 2025-04-02
+      value: https://commons.wikimedia.org/wiki/File:Flexural_modulus_measurement.png
+
+etoolbox:
+    type: Web
+    title: Young’s Modulus of Elasticity – Values for Common Materials
+    author: The Engineering ToolBox
+    url:
+        date: 2025-04-02
+        value: https://www.engineeringtoolbox.com/young-modulus-d_417.html
+
+civilsguide:
+    type: Web
+    title: What is the Young’s Modulus of Steel?
+    author: Civil's Guide
+    url:
+        date: 2025-04-02
+        value: https://civilsguide.com/what-is-the-youngs-modulus-of-steel/
+
+soumik:
+    type: Web
+    title: Torsion Test on Mild Steel | Modulus of Rigidity
+    author: soumik
+    publisher: Yanthrist
+    url:
+        date: 2025-04-02
+        value: https://yanthrist.com/torsion-test-on-mild-steel-modulus-of-rigidity/
+
+eedge:
+    type: Web
+    title: Shear Modulus of Rigidity Table of Engineering Materials
+    author: Engineers Edge
+    url:
+      date: 2025-04-02
+      value: https://www.engineersedge.com/materials/shear_modulus_of_rigidity_13122.htm
+
+orion8:
+    type: Web
+    title: Torsion of a square section bar
+    author: Orion 8
+    url:
+        date: 2025-04-02
+        value: https://commons.wikimedia.org/wiki/File:Twisted_bar.png
